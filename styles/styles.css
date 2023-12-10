@@ -75,6 +75,11 @@ a {
     color:black;
 }
 
+/* set underline for links in main and footer for the hover state */
+main a:hover, footer a:hover{
+    text-decoration: underline;
+}
+
 /* set the hover-state of .fack-button and .blue-hover as following:
     - with underline 
     - set background-color to cornflower blue
