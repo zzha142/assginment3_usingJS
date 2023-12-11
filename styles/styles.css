@@ -124,8 +124,7 @@ header img {
 
 /* set height-60px and font-weight-200 of footer & margin space between footer and main as 25px & center all contents in footer in vertical and horizontal*/
 footer {
-    padding: 20px;
-    height: 60px;
+    height: 110px; /*110px = 60px + margintop 50px*/
     font-weight: 200;
     display: flex;
     flex-direction: column;
